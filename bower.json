@@ -6,7 +6,7 @@
     "Kenneth Ormandy <kenneth@chloi.io>"
   ],
   "description": "Adds OpenType features—ligatures, kerning, and more—to Normalize.css.",
-  "main": "normalize-opentype.css",
+  "main": "normalize-opentype.scss",
   "keywords": [
     "normalize",
     "type",
